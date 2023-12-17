@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#8ecfe6</color>
+    <color name="hint_color">#3B3B3B</color>
+    <color name="biege">#FAF0E6</color>
+</resources>

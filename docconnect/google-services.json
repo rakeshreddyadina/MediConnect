@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "__YOUR PROJECT NUMBER__",
+    "project_id": "__YOUR PROJECT ID__",
+    "storage_bucket": "__YOUR STORAGE BUCKET__"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "__MOBILESDK_APPID__",
+        "android_client_info": {
+          "package_name": "com.adina.docconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "__CURRENTKEY__"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "__MOBILESDK_APPID__",
+        "android_client_info": {
+          "package_name": "com.example.mediconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "__CURRENTKEY__"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
